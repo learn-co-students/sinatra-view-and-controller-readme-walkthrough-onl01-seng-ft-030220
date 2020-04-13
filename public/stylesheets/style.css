@@ -3,3 +3,10 @@ body {
   background-color: #D4F5F5;
   color: #554348
 }
+
+a {
+  background-color:  #a5818b;
+  border: 5px solid #a5818b;
+  border-radius: 20px;
+  color: #554348;
+}
